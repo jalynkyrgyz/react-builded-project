@@ -1,5 +1,2 @@
- https://jalynkyrgyz.github.io/react-builded-project/
+ https://jalynkyrgyz.github.io/react-builded-project/index.html
  
- http://192.168.0.102:3000
-
-http://localhost:3000  
